@@ -1,3 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Second line of code.
 Change
+More text...
+=======
+Change on github.come
+>>>>>>> 9a162951e88b9dccb20a755a40698cb47f8744b0
